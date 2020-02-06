@@ -37,4 +37,4 @@ while talk_to_sensei.replace(' ', '').lower() != 'sensei,iamatpeace':
         print("do not lose focus. Wax on. Wax off")
         talk_to_sensei = input('If you no-longer want to talk to Mr Miyagi, say: Sensei, I am at peace : ')
 
-print(talk_to_sensei.replace(' ', '').lower() )
+print('Sometimes, what heart know, head forget')
